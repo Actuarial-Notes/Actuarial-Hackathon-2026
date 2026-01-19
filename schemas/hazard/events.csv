@@ -1,0 +1,6 @@
+event_id,event_name,return_period,rate,description
+1,FL_010_Base,10,0.1,10-year return period baseline flood
+2,FL_050_Base,50,0.02,50-year return period baseline flood
+3,FL_100_Base,100,0.01,100-year return period baseline flood
+4,FL_500_Base,500,0.002,500-year return period baseline flood
+5,FL_100_CC2050,100,0.01,100-year flood under 2050 climate scenario

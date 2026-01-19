@@ -1,0 +1,4 @@
+loc_id,accntnum,locnum,streetaddress,city,postalcode,latitude,longitude,countrycode,occupancycode,constructioncode,numberofstoreys,yearbuilt,buildingtiv,contentstiv,bitiv,basement,firstfloorht
+10001,ACC001,LOC001,123 Main Street East,Hamilton,L8N 1A1,43.2557,-79.8711,CA,1000,1000,2,1965,350000.00,75000.00,0.00,1,0.30
+10002,ACC002,LOC001,456 King Street West,Hamilton,L8P 1B2,43.2601,-79.8856,CA,2000,1001,1,1985,850000.00,250000.00,50000.00,0,0.15
+10003,ACC003,LOC001,789 Barton Street East,Hamilton,L8L 2Y5,43.2489,-79.8234,CA,1001,1000,3,2005,1200000.00,0.00,0.00,1,0.45

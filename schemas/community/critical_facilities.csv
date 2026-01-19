@@ -1,0 +1,15 @@
+facility_id,facility_name,facility_type,address,latitude,longitude,ward,capacity,backup_power,flood_protection,priority_level,notes
+1,Hamilton General Hospital,HOSPITAL,237 Barton Street East,43.2569,-79.8519,Ward 3,450,1,0,1,Level 1 Trauma Center
+2,St. Joseph's Healthcare,HOSPITAL,50 Charlton Avenue East,43.2558,-79.8766,Ward 2,400,1,0,1,Major hospital
+3,McMaster Children's Hospital,HOSPITAL,1280 Main Street West,43.2605,-79.9194,Ward 1,150,1,1,1,Pediatric care
+4,Fire Station 1 - Central,FIRE,35 John Street North,43.2567,-79.8677,Ward 2,25,1,0,1,Downtown coverage
+5,Fire Station 8 - East,FIRE,1135 Barton Street East,43.2485,-79.8134,Ward 4,20,1,0,2,East Hamilton
+6,Main Police Station,POLICE,155 King William Street,43.2559,-79.8684,Ward 2,200,1,1,1,Central dispatch
+7,Westdale Secondary School,SCHOOL,700 Main Street West,43.2615,-79.9012,Ward 1,1200,0,0,2,High school
+8,Delta Secondary School,SCHOOL,1284 Main Street East,43.2401,-79.8198,Ward 5,1100,0,0,2,High school
+9,Woodward Water Treatment,WATER,300 Woodward Avenue,43.2634,-79.8491,Ward 3,0,1,1,1,Major water treatment
+10,King Street Pumping Station,WATER,King Street East,43.2512,-79.8312,Ward 4,0,1,0,1,Stormwater pumping
+11,Barton Substation,POWER,Barton Street,43.2498,-79.8456,Ward 3,0,1,0,1,Electrical distribution
+12,Hamilton GO Centre,TRANSIT,36 Hunter Street East,43.2532,-79.8694,Ward 2,5000,1,0,2,Regional transit hub
+13,Central Library,SHELTER,55 York Boulevard,43.2578,-79.8722,Ward 2,500,0,0,3,Designated cooling/warming center
+14,Sackville Hill Seniors Centre,SHELTER,780 Upper Wentworth,43.2234,-79.8456,Ward 7,200,0,0,3,Senior population shelter

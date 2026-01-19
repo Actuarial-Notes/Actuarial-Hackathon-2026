@@ -1,0 +1,9 @@
+areaperil_id,ward,neighborhood,total_population,households,seniors_65plus,seniors_alone,children_under5,low_income_households,no_vehicle_households,rental_households,disabled_persons,non_english_speakers,recent_immigrants,svi_score,notes
+101,Ward 2,Downtown Core,8500,4200,1275,485,340,1680,890,2520,595,680,425,0.78,High density urban core
+102,Ward 3,Barton/Kenilworth,12000,4800,1680,520,720,1920,650,2160,720,840,360,0.72,Mixed residential/commercial
+103,Ward 4,East Hamilton,9500,3800,1425,380,475,1140,420,1330,570,380,190,0.58,Established residential
+104,Ward 5,Red Hill,11000,4400,1320,350,660,880,310,880,440,220,132,0.45,Newer suburban development
+105,Ward 1,West Hamilton,10500,4200,1050,315,525,630,252,840,420,315,210,0.42,University area
+106,Ward 6,Mountain East,13000,5200,1950,455,520,780,260,780,520,260,156,0.38,Suburban residential
+107,Ward 7,Mountain Central,14000,5600,2100,490,560,840,280,560,560,280,168,0.35,Suburban residential
+108,Ward 8,Mountain West,12500,5000,1875,438,500,750,250,500,500,250,150,0.36,Suburban residential

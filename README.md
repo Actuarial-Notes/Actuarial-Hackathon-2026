@@ -114,13 +114,44 @@ Quantify the economic consequences of flood events and design appropriate insura
 
 ---
 
+## Oasis Loss Modelling Framework
+
+This project uses the **Oasis Loss Modelling Framework** as the foundation for catastrophe modeling. See the detailed documentation:
+
+- **[Oasis Framework Evaluation](docs/oasis-framework-evaluation.md)** - Complete analysis of how the Oasis structure maps to this project, including team responsibilities and recommended extensions for community impact
+- **[Data Dictionary](docs/data-dictionary.md)** - Field-level specifications for all Oasis files and community impact extensions
+- **[Schema Templates](schemas/)** - Example CSV files to help teams get started
+
+### Team Structure (Based on Oasis Framework)
+
+| Team | Color | Files | Focus Area |
+|------|-------|-------|------------|
+| Blue Team | Hazard | events.csv, footprint.csv, lookup.csv | Part 1: Flood physics and scenarios |
+| Black Team | Exposure | locations.csv, items.csv, vulnerability.csv | Part 2: Building inventory and damage curves |
+| Red Team | Financial | fm_policytc.csv, fm_profile.csv, fm_programme.csv | Part 3: Insurance and loss calculations |
+| **Extended** | Community | population_exposure.csv, vulnerable_groups.csv | Human impact beyond financial metrics |
+
+---
+
 ## Getting Started
 
 1. **Form Teams:** Interdisciplinary teams (actuaries, engineers, data scientists, GIS specialists) work best
 2. **Choose Your Focus:** Teams can tackle one part in depth or attempt an integrated solution
-3. **Collaboration:** Parts 1, 2, and 3 build on each other—coordinate with other teams to share outputs
-4. **Deliverables:** Prepare a presentation covering methodology, findings, and recommendations
-5. **Impact:** Consider real-world applicability—what would you recommend to the City of Hamilton or insurers?
+3. **Review the Framework:** Read the [Oasis Framework Evaluation](docs/oasis-framework-evaluation.md) to understand file structures
+4. **Use Schema Templates:** Start with the example files in the `schemas/` directory
+5. **Collaboration:** Parts 1, 2, and 3 build on each other—coordinate with other teams to share outputs
+6. **Deliverables:** Prepare a presentation covering methodology, findings, and recommendations
+7. **Impact:** Consider real-world applicability—what would you recommend to the City of Hamilton or insurers?
+
+### Key Focus: Beyond Financial Metrics
+
+While the Oasis framework excels at financial loss modeling, this hackathon emphasizes **human impact**:
+- How many people are displaced?
+- Which vulnerable populations are most at risk?
+- What critical services are disrupted?
+- How long does recovery take for different communities?
+
+City Planners and community groups need answers to these questions, not just dollar figures.
 
 ## Resources
 

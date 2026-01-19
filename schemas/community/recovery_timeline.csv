@@ -1,0 +1,8 @@
+damage_state,damage_state_name,damage_ratio_min,damage_ratio_max,housing_recovery_days,business_recovery_days,infrastructure_recovery_days,displacement_likelihood,shelter_requirement_pct,notes
+1,Negligible,0.00,0.05,0,0,0,0.00,0,No significant damage
+2,Minor,0.05,0.15,7,3,1,0.10,0,Cleaning and minor repairs
+3,Moderate,0.15,0.30,30,14,7,0.50,10,Significant repairs needed
+4,Major,0.30,0.50,90,45,21,0.85,30,Major renovation required
+5,Severe,0.50,0.70,180,90,45,0.95,50,Extensive reconstruction
+6,Very Severe,0.70,0.85,270,180,90,1.00,70,Near total reconstruction
+7,Total Loss,0.85,1.00,365,365,180,1.00,90,Complete rebuild or relocation

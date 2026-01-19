@@ -1,0 +1,7 @@
+layer_id,level_id,agg_id,policytc_id,deductible1,limit1,share,description
+1,1,1,1,1000.00,350000.00,1.00,Standard residential - $1K deductible
+1,1,2,2,2500.00,500000.00,1.00,Standard residential - $2.5K deductible
+1,1,3,3,5000.00,850000.00,1.00,Commercial - $5K deductible
+1,1,4,4,10000.00,1200000.00,1.00,Commercial - $10K deductible
+1,1,5,5,25000.00,5000000.00,1.00,Industrial - $25K deductible
+1,2,1,10,0.00,1000000.00,0.80,Reinsurance quota share 80%

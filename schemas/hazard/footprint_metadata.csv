@@ -1,0 +1,8 @@
+intensity_bin_id,intensity_min,intensity_max,intensity_mid,unit,description
+1,0.00,0.30,0.15,m,Shallow flooding - cosmetic damage only
+2,0.30,0.60,0.45,m,Minor flooding - floor and baseboard damage
+3,0.60,1.00,0.80,m,Moderate flooding - significant interior damage
+4,1.00,1.50,1.25,m,Major flooding - structural concerns begin
+5,1.50,2.00,1.75,m,Severe flooding - major structural damage
+6,2.00,3.00,2.50,m,Extreme flooding - potential total loss
+7,3.00,99.00,5.00,m,Catastrophic - complete destruction likely
